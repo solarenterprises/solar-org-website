@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules
+
+# database dir
+db/
+
+# Optional npm cache directory
+.npm
+
+# Package lock and temp files
+.package.json
+
+# Config file
+config/default.json
+
+
