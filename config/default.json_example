@@ -1,0 +1,6 @@
+{
+    "server": {
+        "secret": "yoursecret",
+        "port": 8000
+    }
+}
